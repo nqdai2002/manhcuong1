@@ -1,0 +1,42 @@
+nav{
+    background-color: black;
+}
+
+.navigation_menu{
+    width: 75%;
+}
+
+.navigation_menu ul{
+    display: flex;
+    margin: 0;
+    padding: 0;  
+}
+
+.navigation_menu ul li{
+    list-style: none;
+} 
+
+.navigation_menu ul li a{
+    padding: 15px 15px;
+    
+    text-decoration: none;
+    color: white;
+    display: block;
+}
+
+.navigation_search{
+    text-align: right;
+    padding: 15px;
+    width: 25%;
+   color: white;
+}
+
+.navigation_menu ul li a:hover{
+    background-color: #696969;
+}
+
+.navigation_menu ul li.active a{
+    background-color: #696969;
+}
+
+

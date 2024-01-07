@@ -1,0 +1,16 @@
+@import url('header.css');
+
+@import url('navigation.css');
+
+
+.container{
+    width: 1170px;
+    margin: auto;
+}
+
+.row{
+    display: flex;
+}
+body{
+    margin: 0;
+}

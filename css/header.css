@@ -1,0 +1,39 @@
+.header__top {
+    background-color: #3b84b0;
+    text-transform: uppercase;
+    color: white;
+    font-size: 13px;
+    padding: 10px;
+}
+
+
+.header__bottom{
+    background-image: url('../images/backgroud.jpg');
+    background-size: cover;
+    
+}
+
+
+.header__bottom h2{
+    padding: 10px;
+    text-transform: uppercase;
+    color: white;
+    font-size: 35px;
+    margin-top: 0px;
+    margin-bottom: 13px;
+}
+
+
+.header__bottom ul{
+    margin: 0;
+    padding: 0;
+}
+
+.header__bottom ul li{
+    list-style: none;
+    font-size: 14px;
+    color: white;
+    padding: 10px;
+}
+
+
